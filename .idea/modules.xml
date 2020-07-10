@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/E-CommerceAndroidApp.iml" filepath="$PROJECT_DIR$/E-CommerceAndroidApp.iml" group="E-CommerceAndroidApp" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="E-CommerceAndroidApp/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="dropship_box/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dropship_box.iml" filepath="$PROJECT_DIR$/.idea/modules/dropship_box.iml" group="dropship_box" />
     </modules>
   </component>
 </project>
